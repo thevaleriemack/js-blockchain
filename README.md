@@ -1,4 +1,4 @@
-# JavaScript Blockchain Demo
+![JavaScript Blockchain Demo](https://github.com/thevaleriemack/js-blockchain/blob/master/screenshot.png)
 
 This is a JavaScript implementation of the blockchain concept using Node.js.
 Mining is achieved through the use of a cryptographically random nonce.
